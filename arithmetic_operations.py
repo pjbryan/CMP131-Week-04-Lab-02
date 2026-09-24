@@ -35,6 +35,7 @@ print ()
 
 # OUTPUT: display calculations
 print ("OUTPUT", divider3)
+print (f"Your Numbers: {userInput1:.2f} & {userInput2:.2f}")
 print (f"Addition: {addition:.2f}")
 print (f"Subtraction: {subtraction:.2f}")
 print (f"Multiplication: {multiplication:.2f}")
